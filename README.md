@@ -2,7 +2,7 @@
 
 Smoke-тестирование всех доступных через API функций магазина одежды О. Назиной.
 
-![title](https://github.com/OQASergey/Postman-Automation/raw/main/pics/title.png)
+![title](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/title.png)
 
 
 ---
@@ -12,19 +12,19 @@ Smoke-тестирование всех доступных через API фун
   
   **Запуск тестов:**
   
-![PA_NSh_start](https://github.com/OQASergey/Postman-Automation/raw/main/pics/PA_NSh_start.gif)
+![PA_NSh_start](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/PA_NSh_start.gif)
 
 ------
 
 **Отображение в консоли Postman'а:**
 
-![PA_NSh_console](https://github.com/OQASergey/Postman-Automation/raw/main/pics/PA_NSh_console.gif)
+![PA_NSh_console](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/PA_NSh_console.gif)
 
 ------
 
 **Просмотр ошибок:**
 
-![PA_NSh_fails](https://github.com/OQASergey/Postman-Automation/raw/main/pics/PA_NSh_fails.gif)
+![PA_NSh_fails](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/PA_NSh_fails.gif)
 
 ------
 
@@ -156,33 +156,33 @@ ___
 **Для того, чтобы импортировать проект в Вашу коллекцию необходимо сделать следующее:**
 - Кликнуть на кнопку "Import" в вашем рабочем пространстве (workspace)
 
-![import1](https://github.com/OQASergey/Postman-Automation/raw/main/pics/import1.png)
+![import1](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/import1.png)
 - Вставить ссылку на ключ в появишвееся поле
 
-![import2](https://github.com/OQASergey/Postman-Automation/raw/main/pics/import2.png)
+![import2](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/import2.png)
 
 *В Вашем рабочем пространстве появится новая коллекция с одноимённым названием;*
 
 **Чтобы запустить автотест, необходимо выполнить следующие шаги:**
 - Кликнуть на импортированную коллекцию с проектом
 
-![run1](https://github.com/OQASergey/Postman-Automation/raw/main/pics/run1.png)
+![run1](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/run1.png)
 - Кликнуть на кнопку "Run collection"
 
-![run2](https://github.com/OQASergey/Postman-Automation/raw/main/pics/run2.png)
+![run2](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/run2.png)
 - В выпадающем меню "Advamced Settings" выключить чекбокс "Stop run if an error occers"
 
-![run4](https://github.com/OQASergey/Postman-Automation/raw/main/pics/run4.png)
+![run4](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/run4.png)
 - Открыть консоль postman'а (в низу экрана)
 
-![run3](https://github.com/OQASergey/Postman-Automation/raw/main/pics/run3.png)
+![run3](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/run3.png)
 - Кликнуть на кнопку "Run [название проекта]"
 
-![run5](https://github.com/OQASergey/Postman-Automation/raw/main/pics/run5.png)
+![run5](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/run5.png)
 
 *Запустятся автотесты. Вся инфомация по результатам тестов отображается в логах консоли postman'а*
 
-![run6](https://github.com/OQASergey/Postman-Automation/raw/main/pics/run6.png)
+![run6](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman/raw/main/pics/run6.png)
 </details>
 
 ---
