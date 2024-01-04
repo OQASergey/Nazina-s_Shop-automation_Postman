@@ -30,7 +30,7 @@ Smoke-тестирование всех доступных через API фун
 
 </details>
 
-***[Ссылка на проект по ручному тестированию магазина](https://github.com/OQASergey/Nazinas_Shop_Testing/tree/main#nazinas_shop_testing)***
+***[Ссылка на проект по ручному тестированию магазина](https://github.com/OQASergey/Nazinas_Shop_Testing#readme)***
 
 ***[Ссылка на документацию проекта](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)***
 
