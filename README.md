@@ -11,7 +11,7 @@ Smoke-тестирование всех доступных через API фун
 
 ***[Ссылка на документацию проекта (доступ может быть закрыт владельцем)](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)***
 
-***[Ссылка на сайта магазина](http://shop.bugred.ru/)***
+***[Ссылка на сайт магазина](http://shop.bugred.ru/)***
 
 ***Ключ:*** https://api.postman.com/collections/30220849-d417c303-1fc9-4700-9707-dd6955623a68?access_key=PMAT-01HCHVN23KVM4XPP1XEGXBC820
 
